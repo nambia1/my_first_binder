@@ -1,2 +1,2 @@
 # my_first_binder
-Setting up myrepository for BIOS 512
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nambia1/my_first_binder.git/HEAD)
